@@ -1,3 +1,4 @@
+置顶。
 # Permission 一个权限管理系统
 
 之前有学习了 [张开涛老师](https://jinnianshilongnian.iteye.com/blog/2018936) 老师的作品写的一个简单的 [Shiro入门级权限管理项目](https://github.com/TyCoding/shiro)，但由于一些原因感觉学习的不够深入，最近仔细拜读了 [wuyouzhuguli](https://github.com/wuyouzhuguli) 大神的作品，学习到了很多，顾写下此项目实战练习。 
